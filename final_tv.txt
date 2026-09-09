@@ -1,0 +1,10 @@
+*=====================================*
+  Clemson FINAL SEASON REPORT
+*=====================================*
+Season Points Per Drive (PPD):   3.67
+Season Yards Per Play (YPP):     7.54
+Season Plays Per Minute (PPM):   1.14
+---------------------------------------
+FINAL SEASON THREAT VALUE (TV):  31.44
+AVERAGE THREAT VALUE DIFFERENTIAL (Avg. TVD):  20.05
+*=====================================*
